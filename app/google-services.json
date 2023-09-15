@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170353737749",
+    "project_id": "fir-databaseauth-10ba2",
+    "storage_bucket": "fir-databaseauth-10ba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170353737749:android:c71555375d98e647964e1c",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatabaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170353737749-63eo0l53l74sh3or7gtstgn2vo6onq4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZfrlS5h_b3NH_ZYsg5bf2W2hu8q7j6wM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170353737749-63eo0l53l74sh3or7gtstgn2vo6onq4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
